@@ -1,0 +1,21 @@
+/* 웹 보이는부분 너비 */
+.width_1440 {
+    width: 100%;
+    max-width: 1440px;
+    min-width: 900px;
+    margin: 0 auto;
+}
+
+/* 큰 버튼 */
+.btn_large {
+    width: 100px;
+}
+
+/* 효과 제거 */
+.unset {
+    all: unset;
+}
+
+.boarder_bottom_black {
+    border-bottom: 3px solid #000;
+}
