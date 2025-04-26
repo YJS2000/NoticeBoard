@@ -2,7 +2,7 @@
 .width_1440 {
     width: 100%;
     max-width: 1440px;
-    min-width: 900px;
+    min-width: 500px;
     margin: 0 auto;
 }
 
@@ -15,7 +15,31 @@
 .unset {
     all: unset;
 }
-
 .boarder_bottom_black {
     border-bottom: 3px solid #000;
+}
+
+/* insertPage showPage 인풋박스 텍스트에리어 div 사이즈 및 색상 */
+.boarder-color {
+    border: solid 1px #ccced1;
+}
+.input-size {
+    height: 41px;
+}
+.ck-editor__editable_inline {
+    min-height: 355px;
+}
+
+/* showPage 폰트 사이즈 */
+.font-big {
+    font-size: 20px;
+}
+.font-small {
+    font-size: 14px;
+}
+
+/* showPage 본문내용 사이즈 */
+.main-text {
+    width: 100%;
+    height: 355px;
 }

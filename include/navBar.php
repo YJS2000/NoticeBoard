@@ -39,6 +39,9 @@
             </form>
         </div>
     </nav> 
-</body>
-</html>
+
+    <!-- ckeditor 코드 불러오기 -->
+    <script src="../assets/js/ckeditor.js"></script>
+    <script src="../assets/js/initCkeditor.js"></script>
+
 
