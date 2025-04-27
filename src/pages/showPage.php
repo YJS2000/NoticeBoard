@@ -21,6 +21,3 @@
         <button class="ms-3 btn btn-outline-primary">삭제</button>
     </div>
 </div>
-
-</body>
-</html>

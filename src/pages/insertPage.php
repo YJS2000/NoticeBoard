@@ -15,7 +15,3 @@
         <button class="btn btn-outline-primary">등록</button>
     </div>
 </div>
-
-
-</body>
-</html>
