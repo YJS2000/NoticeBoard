@@ -1,4 +1,8 @@
+<?php include '../include/header.php'; ?>
 <?php include '../include/navBar.php'; ?>
+
+<script src="../assets/js/ckeditor.js"></script>
+<script src="../assets/js/initCkeditor.js"></script>
 
 <div class="width_1440">
     <h2 class="mt-4">공지사항</h2>
@@ -15,3 +19,5 @@
         <button class="btn btn-outline-primary">등록</button>
     </div>
 </div>
+
+<?php include '../include/footer.php' ?>

@@ -1,4 +1,6 @@
+<?php include '../include/header.php' ?>
 <?php include '../include/navBar.php'; ?>
+
 <div class="width_1440">
     <h2 class="mt-4">공지사항</h2>
 
@@ -21,3 +23,5 @@
         <button class="ms-3 btn btn-outline-primary">삭제</button>
     </div>
 </div>
+
+<?php include '../include/footer.php' ?>
