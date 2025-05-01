@@ -1,6 +1,8 @@
+# 프로젝트에 사용한 버전
+PHP/8.2.26, MariaDB/10.11.11, Apache/2.4.62, Composer/2.8.4
+
 # 이 프로젝트는 CKEditor 5를 사용합니다.
 **CKEditor 5**: 39.0.1 (파일로 다운받아 사용)
-
 # 적용법
 1. assets/js/ckeditor.js 생성후 
 2. 해당주소의 소스코드를 복사후 붙여넣기

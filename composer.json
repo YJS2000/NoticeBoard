@@ -1,0 +1,15 @@
+{
+    "name": "yjs2000/yjs-practice",
+    "autoload": {
+        "psr-4": {
+            "Yjs03\\YjsPractice\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "YJS2000",
+            "email": "yjs03744959@gmail.com"
+        }
+    ],
+    "require": {}
+}
